@@ -1,0 +1,201 @@
+learner_id,first_name,last_name,country,native_language,signup_date,subscription_tier
+1,Olivia,Garcia,Brazil,Portuguese,2025-04-25,free
+2,Leo,Jones,England,English,2025-04-15,free
+3,Olivia,Ngata,Japan,Japanese,2025-02-02,free
+4,Sean,Sato,Argentina,Spanish,2025-01-28,premium
+5,Giulia,Tanaka,Italy,Italian,2026-07-13,free
+6,Nina,Patel,South Africa,Afrikaans,2025-01-07,free
+7,Mele,Suzuki,India,Hindi,2025-10-12,premium
+8,Mia,Muller,India,Hindi,2025-04-15,free
+9,Tom,Dubois,Fiji,Fijian,2025-12-19,premium
+10,Annika,Vunipola,Italy,Italian,2026-04-16,premium
+11,Sean,Fernandez,Japan,Japanese,2025-03-22,premium
+12,Aoife,Sato,Spain,Spanish,2026-01-06,premium
+13,Sam,Fernandez,Australia,English,2025-08-22,premium
+14,Aroha,Muller,Fiji,Fijian,2025-08-27,free
+15,Arjun,Bianchi,Brazil,Portuguese,2026-01-09,free
+16,Zara,Walker,Brazil,Portuguese,2025-10-01,free
+17,Maya,Martin,England,English,2026-07-01,free
+18,Isla,Wilson,Japan,Japanese,2025-10-04,free
+19,Haruto,Brown,India,Hindi,2025-02-27,premium
+20,Jack,Suzuki,Japan,Japanese,2025-10-02,premium
+21,Ananya,Murphy,Spain,Spanish,2025-11-19,free
+22,Mele,Dubois,South Korea,Korean,2026-04-15,free
+23,Annika,Dubois,Italy,Italian,2026-07-29,premium
+24,Ana,Bianchi,Japan,Japanese,2026-08-21,free
+25,Min-jun,Ngata,England,English,2026-06-06,premium
+26,Mele,Patel,Fiji,Fijian,2025-04-23,premium
+27,Thiago,Muller,Japan,Japanese,2025-03-07,free
+28,Sora,Wilson,France,French,2026-06-26,premium
+29,Leo,Jones,Australia,English,2025-04-28,premium
+30,Tane,Fernandez,Germany,German,2025-12-15,free
+31,Maya,Dubois,France,French,2025-01-04,premium
+32,Seo-yeon,Parata,Germany,German,2025-07-02,premium
+33,Tom,Sato,South Africa,Afrikaans,2026-06-04,free
+34,Annika,Kelly,Germany,German,2025-06-15,premium
+35,Min-jun,Williams,Spain,Spanish,2025-11-28,free
+36,Yui,Taylor,India,Hindi,2025-11-11,free
+37,Mia,Murphy,Spain,Spanish,2025-03-22,premium
+38,Sam,Naivalu,Germany,German,2026-06-30,free
+39,Arjun,Dubois,France,French,2026-07-17,free
+40,Ananya,Jones,Spain,Spanish,2026-03-10,premium
+41,Kai,Lopez,Italy,Italian,2025-07-25,free
+42,Lena,Kelly,Brazil,Portuguese,2026-01-18,free
+43,Jack,Santos,Ireland,English,2025-08-19,free
+44,Ella,Tanaka,Argentina,Spanish,2025-08-24,free
+45,Haruto,Walker,Italy,Italian,2025-03-02,premium
+46,Jack,OBrien,Fiji,Fijian,2025-12-05,free
+47,Ananya,Jones,Brazil,Portuguese,2026-05-13,free
+48,Aoife,Botha,South Korea,Korean,2026-08-08,free
+49,Rohan,Parata,France,French,2026-02-21,free
+50,Marco,Kim,Japan,Japanese,2025-12-29,free
+51,Leo,Parata,Italy,Italian,2025-02-25,free
+52,Aroha,Martin,Italy,Italian,2025-12-14,free
+53,Siosaia,Park,Argentina,Spanish,2026-04-05,free
+54,Jack,Lee,France,French,2025-09-13,premium
+55,Aroha,Taylor,Fiji,Fijian,2026-07-18,free
+56,Mia,Martin,Argentina,Spanish,2025-01-16,free
+57,Ananya,Schmidt,France,French,2026-05-08,premium
+58,Liam,Muller,England,English,2026-01-24,free
+59,Lucas,Park,Germany,German,2026-04-11,free
+60,Ruby,Murphy,Italy,Italian,2026-07-24,free
+61,Ava,Davies,South Africa,Afrikaans,2025-08-11,premium
+62,Ava,Taylor,Australia,English,2025-11-18,free
+63,Arjun,Taylor,Argentina,Spanish,2026-06-28,premium
+64,Jack,Evans,New Zealand,English,2025-07-10,free
+65,Ana,Vunipola,Fiji,Fijian,2025-08-29,premium
+66,Ella,Evans,Spain,Spanish,2025-09-10,free
+67,Ruby,Davies,New Zealand,English,2026-03-06,free
+68,Ananya,Silva,India,Hindi,2025-09-25,free
+69,Ruby,Lopez,Japan,Japanese,2025-05-15,free
+70,Liam,van der Merwe,South Korea,Korean,2025-03-16,free
+71,Jack,Jones,Spain,Spanish,2025-04-13,free
+72,Santiago,Walker,South Africa,Afrikaans,2025-05-16,premium
+73,Arjun,Lee,India,Hindi,2025-10-19,premium
+74,Grace,Kelly,Italy,Italian,2025-11-06,free
+75,Chloe,Parata,Fiji,Fijian,2026-07-22,premium
+76,Tane,Parata,England,English,2025-09-28,premium
+77,Lucas,Evans,England,English,2025-10-06,free
+78,Leo,Dubois,India,Hindi,2025-07-28,free
+79,Mia,Park,South Africa,Afrikaans,2025-02-22,premium
+80,Sofia,Naivalu,Australia,English,2025-01-04,free
+81,Eli,Lee,South Africa,Afrikaans,2025-06-15,free
+82,Liam,Vunipola,Japan,Japanese,2026-07-29,free
+83,Annika,Brown,South Korea,Korean,2025-06-02,premium
+84,Mele,Park,Spain,Spanish,2026-07-20,free
+85,Noah,Rossi,South Africa,Afrikaans,2026-01-09,free
+86,Santiago,Wilson,Ireland,English,2025-04-16,premium
+87,Yui,Patel,Japan,Japanese,2025-06-08,premium
+88,Giulia,Williams,Germany,German,2025-07-01,free
+89,Giulia,Martin,South Korea,Korean,2025-12-07,free
+90,Thiago,Brown,Germany,German,2025-04-21,premium
+91,Felix,Rossi,Ireland,English,2025-07-24,free
+92,Haruto,Williams,Germany,German,2025-08-22,free
+93,Hina,Walker,Japan,Japanese,2025-12-03,premium
+94,Finn,OBrien,South Africa,Afrikaans,2025-12-26,free
+95,Sofia,Williams,Fiji,Fijian,2026-07-04,free
+96,Ella,Dubois,South Africa,Afrikaans,2025-07-02,free
+97,Santiago,Silva,Spain,Spanish,2026-03-21,free
+98,Thiago,Thompson,Argentina,Spanish,2025-04-29,free
+99,Liam,Kelly,Australia,English,2026-03-23,premium
+100,Valentina,Park,Argentina,Spanish,2025-07-21,free
+101,Grace,Silva,Brazil,Portuguese,2025-12-05,free
+102,Seo-yeon,Lopez,New Zealand,English,2025-11-04,free
+103,Zara,Fernandez,India,Hindi,2026-02-17,free
+104,Ruby,Muller,Ireland,English,2026-03-07,free
+105,Grace,Thompson,South Korea,Korean,2025-06-28,free
+106,Chloe,Fernandez,Argentina,Spanish,2025-01-01,free
+107,Tom,Silva,Germany,German,2026-08-17,free
+108,Seo-yeon,Botha,France,French,2025-08-07,premium
+109,Ruby,Ngata,Germany,German,2025-06-23,free
+110,Mia,Martin,Brazil,Portuguese,2025-12-10,free
+111,Mele,Williams,Ireland,English,2025-07-23,free
+112,Felix,Kim,France,French,2025-03-16,premium
+113,Kai,Muller,Spain,Spanish,2025-07-19,free
+114,Finn,Smith,Ireland,English,2025-06-01,premium
+115,Sam,Park,Fiji,Fijian,2025-04-20,free
+116,Felix,Taylor,Germany,German,2026-06-15,free
+117,Felix,Naivalu,South Korea,Korean,2025-05-05,premium
+118,Sean,Evans,Brazil,Portuguese,2026-06-28,free
+119,Grace,OBrien,Germany,German,2026-03-30,free
+120,Lena,Patel,South Korea,Korean,2026-07-16,premium
+121,Sora,Martin,France,French,2026-04-06,premium
+122,Min-jun,Martin,South Africa,Afrikaans,2026-06-18,free
+123,Yui,Garcia,New Zealand,English,2025-10-20,free
+124,Mia,Naivalu,South Korea,Korean,2026-07-08,free
+125,Kai,Suzuki,Japan,Japanese,2025-06-06,free
+126,Annika,van der Merwe,Japan,Japanese,2025-12-05,free
+127,Thiago,Davies,Ireland,English,2026-03-07,premium
+128,Thiago,Botha,Australia,English,2026-08-13,free
+129,Nina,Muller,India,Hindi,2025-11-02,premium
+130,Annika,Jones,Fiji,Fijian,2026-03-06,premium
+131,Min-jun,Tanaka,South Korea,Korean,2025-08-14,free
+132,Thiago,Santos,France,French,2025-01-30,free
+133,Maya,Patel,Germany,German,2026-02-19,premium
+134,Grace,Jones,South Korea,Korean,2025-05-11,free
+135,Ruby,Williams,Japan,Japanese,2026-08-01,free
+136,Felix,Iyer,Japan,Japanese,2025-05-19,free
+137,Ananya,van der Merwe,Japan,Japanese,2025-12-02,free
+138,Hina,Kim,Germany,German,2026-01-24,free
+139,Olivia,Jones,New Zealand,English,2026-04-27,free
+140,Finn,Walker,India,Hindi,2025-08-18,premium
+141,Nina,Williams,Brazil,Portuguese,2025-02-11,premium
+142,Grace,Sharma,Ireland,English,2025-01-21,free
+143,Aoife,Suzuki,France,French,2025-04-28,free
+144,Arjun,Evans,South Africa,Afrikaans,2026-01-13,free
+145,Sam,Patel,Italy,Italian,2025-04-28,premium
+146,Olivia,Lopez,New Zealand,English,2026-08-16,free
+147,Ana,Sato,South Korea,Korean,2026-01-20,free
+148,Aroha,Lopez,Italy,Italian,2025-09-06,premium
+149,Aoife,Brown,Spain,Spanish,2025-05-04,free
+150,Jack,OBrien,Japan,Japanese,2026-01-15,free
+151,Min-jun,Parata,Australia,English,2026-03-07,free
+152,Kai,Sharma,India,Hindi,2026-04-16,free
+153,Finn,Garcia,Italy,Italian,2026-06-19,free
+154,Sam,Botha,South Korea,Korean,2026-07-06,free
+155,Mateo,Martin,Fiji,Fijian,2025-10-02,premium
+156,Lena,Martin,New Zealand,English,2025-10-13,premium
+157,Sofia,Williams,Spain,Spanish,2026-01-24,free
+158,Min-jun,Suzuki,India,Hindi,2025-07-06,free
+159,Hina,Evans,South Africa,Afrikaans,2025-12-15,premium
+160,Liam,Kelly,South Africa,Afrikaans,2026-07-24,premium
+161,Maya,Kim,New Zealand,English,2025-09-05,free
+162,Zara,Botha,Germany,German,2025-09-04,free
+163,Olivia,Ngata,France,French,2026-04-04,free
+164,Chloe,Davies,Japan,Japanese,2025-09-07,free
+165,Santiago,Park,Argentina,Spanish,2026-06-28,premium
+166,Santiago,van der Merwe,Argentina,Spanish,2025-12-05,free
+167,Tane,Sato,South Africa,Afrikaans,2025-08-25,free
+168,Nina,Iyer,Italy,Italian,2026-07-03,free
+169,Hina,Davies,Italy,Italian,2026-05-11,premium
+170,Aroha,Sato,Argentina,Spanish,2025-10-17,free
+171,Chloe,Smith,India,Hindi,2025-07-03,premium
+172,Noah,Taylor,England,English,2025-10-08,free
+173,Isla,Murphy,Italy,Italian,2025-05-10,free
+174,Lucas,Botha,Australia,English,2026-08-11,free
+175,Ava,Dubois,India,Hindi,2025-07-08,premium
+176,Jack,Schmidt,France,French,2025-04-27,free
+177,Mele,Sharma,Spain,Spanish,2025-02-24,premium
+178,Yui,Vunipola,South Africa,Afrikaans,2025-03-29,free
+179,Sam,Kelly,Japan,Japanese,2025-08-20,free
+180,Chloe,Davies,South Korea,Korean,2026-03-30,premium
+181,Grace,Taylor,South Africa,Afrikaans,2026-08-06,free
+182,Nina,Suzuki,Italy,Italian,2025-04-12,free
+183,Arjun,Martin,South Africa,Afrikaans,2025-03-25,free
+184,Liam,Kim,New Zealand,English,2025-06-10,free
+185,Lucas,Brown,Spain,Spanish,2026-04-27,free
+186,Zara,van der Merwe,Italy,Italian,2025-10-17,free
+187,Isla,Davies,Ireland,English,2025-09-28,free
+188,Marco,Vunipola,South Korea,Korean,2025-07-22,free
+189,Hina,Sharma,Brazil,Portuguese,2025-06-02,free
+190,Tom,Thompson,England,English,2025-11-11,premium
+191,Felix,Lopez,France,French,2025-05-08,free
+192,Annika,Murphy,South Africa,Afrikaans,2026-05-28,free
+193,Marco,Silva,Spain,Spanish,2025-02-10,free
+194,Haruto,Thompson,Australia,English,2025-04-04,free
+195,Aoife,Brown,Australia,English,2025-10-03,premium
+196,Pieter,Lee,England,English,2026-04-27,premium
+197,Marco,Murphy,England,English,2026-08-23,premium
+198,Giulia,Santos,France,French,2025-12-23,free
+199,Sofia,Kim,New Zealand,English,2025-06-14,free
+200,Nina,Wilson,South Africa,Afrikaans,2026-02-15,free
