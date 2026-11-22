@@ -1,0 +1,24 @@
+course_id,language,level,course_name,total_lessons
+ES-A1,Spanish,A1,Spanish A1: First Steps,20
+ES-A2,Spanish,A2,Spanish A2: Everyday Conversations,30
+ES-B1,Spanish,B1,Spanish B1: Travel and Culture,30
+ES-B2,Spanish,B2,Spanish B2: Confident Communication,30
+FR-A1,French,A1,French A1: First Steps,20
+FR-A2,French,A2,French A2: Everyday Conversations,40
+FR-B1,French,B1,French B1: Travel and Culture,20
+FR-B2,French,B2,French B2: Confident Communication,40
+JA-A1,Japanese,A1,Japanese A1: First Steps,40
+JA-A2,Japanese,A2,Japanese A2: Everyday Conversations,20
+JA-B1,Japanese,B1,Japanese B1: Travel and Culture,25
+IT-A1,Italian,A1,Italian A1: First Steps,30
+IT-A2,Italian,A2,Italian A2: Everyday Conversations,40
+IT-B1,Italian,B1,Italian B1: Travel and Culture,40
+DE-A1,German,A1,German A1: First Steps,20
+DE-A2,German,A2,German A2: Everyday Conversations,25
+DE-B1,German,B1,German B1: Travel and Culture,30
+PT-A1,Portuguese,A1,Portuguese A1: First Steps,25
+PT-A2,Portuguese,A2,Portuguese A2: Everyday Conversations,30
+KO-A1,Korean,A1,Korean A1: First Steps,40
+KO-A2,Korean,A2,Korean A2: Everyday Conversations,40
+ZH-A1,Mandarin,A1,Mandarin A1: First Steps,20
+ZH-A2,Mandarin,A2,Mandarin A2: Everyday Conversations,20
